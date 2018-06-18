@@ -1,0 +1,1 @@
+# Diabetic-Detection-Using-Gaussian-Naive-Bayes-Model
