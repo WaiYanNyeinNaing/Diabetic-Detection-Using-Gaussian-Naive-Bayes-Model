@@ -14,5 +14,5 @@ matplotlib
 scikitplot
 #########################################################################################
 
-The test dataset we will use in this repository is the diabetics dataset (diabetics_data.csv) taken from https://github.com/danfitz7/MLProject1/tree/master/Data.
+The train & test dataset we will use in this repository is the diabetics dataset (diabetics_data.csv) taken from https://github.com/danfitz7/MLProject1/tree/master/Data.
 
