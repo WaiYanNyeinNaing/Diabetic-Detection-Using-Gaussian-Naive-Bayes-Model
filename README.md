@@ -8,10 +8,11 @@ Library Requirements
 
 Anaconda / Jupyter Notebook
 
-Pandas
-Scikit Learn
-matplotlib
-scikitplot
+- Pandas
+- Scikit Learn
+- matplotlib
+- scikitplot
+
 #########################################################################################
 
 The train & test dataset we will use in this repository is the diabetics dataset (diabetics_data.csv) taken from https://github.com/danfitz7/MLProject1/tree/master/Data.
